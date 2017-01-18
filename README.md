@@ -2,7 +2,7 @@
 
 This reboot server can be used to reboot your system through TCP communication. It also sends UDP messages when something is wrong, like the protocol not being followed.
 
-Feel free to let me know if something isn't working as it should at bouwe.ceune$
+Feel free to let me know if something isn't working as it should at bouwe.ceunen@gmail.com
 
 ### Get it running
 
