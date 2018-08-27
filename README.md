@@ -1,4 +1,4 @@
-# Reboot server in Haskell
+# Reboot server in Haskell (UNMAINTAINED)
 
 This reboot server can be used to reboot your system through TCP communication. It also sends UDP messages when something is wrong, like the protocol not being followed.
 
